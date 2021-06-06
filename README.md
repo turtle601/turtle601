@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Hello!!%20I'm%20Junseung%20Hwang&fontSize=60)>
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Hello!!%20I'm%20Junseung%20Hwang&fontSize=60)
 
 <h2 align = "center"> 👏 자기소개 👏 </h2>
 <p align = "center">
