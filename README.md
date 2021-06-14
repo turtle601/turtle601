@@ -1,9 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=Hello!!%20I'm%20Junseung%20Hwang&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Rounded&color=FFE4C4&height=300&section=header&text=Welcome!!%20Junseung's%20github!&fontSize=50&animation=twinkling&fontColor=B0C4DE)
 
-<h2 align = "center"> 👏 자기소개 👏 </h2>
-<p align = "center">
-
+<h2 align = "center"> 👏 Introduce Myself 👏 </h2>
+<p align="center"> 
+😊 Hello!! I am Junseung Hwang who is interested in Full stack Web develop from South Korea.<br>
+😎 My best and favorite language is python, but I don't mind accepting new technologies and languages.
 </p>
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
