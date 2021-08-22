@@ -27,7 +27,7 @@
   <a href="mailto:poomaneoung1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=poomaneoung1@gmail.com"/></a>
 </p>
 
-<h3 align="center">🌈 Active 🌈</h3>
+<h3 align="center">🍎 Active 🍎</h3>
 <p align="center">
   네이버 부스트 캠프 챌린지 (2021.07.19 ~ 2021.08.13)
 </p>
