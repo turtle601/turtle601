@@ -29,6 +29,7 @@
 <h3 align="center">🍎 Active 🍎</h3>
 <p align="center">
   네이버 부스트 캠프 챌린지 (2021.07.19 ~ 2021.08.13)
+  <br>
   GDSC (Google Developer School Club) (2021.09.17 ~)
 </p>
 
