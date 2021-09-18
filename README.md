@@ -4,7 +4,7 @@
 <p align="center"> 
 😊 Hello!! I am Junseung Hwang who is interested in Full stack Web develop from South Korea.<br>
 😉 I am majoring in computer engineering at Pukyong University. <br>
-😎 My best and favorite language is python, but I don't mind accepting new technologies and languages.
+😎 My best and favorite language is python and javascript , but I don't mind accepting new technologies and languages.
 </p>
 
 
@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>&nbsp 
 </p>
 
@@ -30,6 +29,7 @@
 <h3 align="center">🍎 Active 🍎</h3>
 <p align="center">
   네이버 부스트 캠프 챌린지 (2021.07.19 ~ 2021.08.13)
+  GDSC (Google Developer School Club) (2021.09.17 ~)
 </p>
 
 
