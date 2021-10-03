@@ -2,7 +2,7 @@
 
 <h2 align = "center"> 👏 Introduce Myself 👏 </h2>
 <p align="center"> 
-😊 Hello!! I am Junseung Hwang who is interested in FE developer from South Korea <br>
+😊 Hello!! I am Junseung Hwang who is interested in Web Full Stack <br>
 😉 I am majoring in computer engineering at Pukyong University. <br>
 😎 My best and favorite language is python and javascript , but I don't mind accepting new technologies and languages.
 </p>
