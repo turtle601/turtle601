@@ -2,9 +2,9 @@
 
 <h2 align = "center"> 👏 Introduce Myself 👏 </h2>
 <p align="center"> 
-😊 Hello!! I am Junseung Hwang who is interested in Web Full Stack <br>
-😉 I am majoring in computer engineering at Pukyong University. <br>
-😎 My best and favorite language is python and javascript , but I don't mind accepting new technologies and languages.
+😊 저는 웹 풀스택 전반에 관심이 있는 개발자 황준승이라고 합니다. <br>
+😉 현재 부경대 컴퓨터 공학과를 다니고 있습니다. <br>
+😎 제가 제일 좋아하는 언어는 파이썬과 자바스크립트이지만 다른 언어에도 흥미가 많습니다. 
 </p>
 
 
