@@ -29,7 +29,7 @@
   <br>
   네이버 부스트 캠프 챌린지 6기(2021.07.19 ~ 2021.08.13)
   <br>
-  GDSC (Google Developer School Club) Core Memmer (2021.09.17 ~ )
+  GDSC Core Member (Google Developer School Club) (2021.09.17 ~ )
   <br>
   프로그래머스 프론트엔드 자바스크립트 온라인 스터디 12기 (2021.10.13 ~ 2021.11.13)
   <br>
