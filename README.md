@@ -7,8 +7,10 @@
 다른 사람들이 이해하기 쉽게 기록하고 공유하려고 노력합니다. 
 </p>
 
+<br />
 
-<h3>📚 Tech Stack 📚</h3>
+
+<h2>📚 Tech Stack </h2>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
@@ -19,13 +21,17 @@
 
 </p>
 
-<h3>🌈 Follow Me 🌈</h3>
+<br />
+
+<h2>🌈 Follow Me</h2>
 <p>
   <a href="https://velog.io/@turtle601" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a></a>&nbsp
   <a href="mailto:poomaneoung1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=poomaneoung1@gmail.com"/></a>
 </p>
 
-<h3>🍎 Active 🍎</h3>
+<br />
+
+<h2>🍎 Active</h2>
 <p>
   네이버 부스트 캠프 챌린지 6기 (2021.07.18 ~ 2021.08.19)
   <br>
@@ -33,8 +39,9 @@
   <br>
 </p>
 
+<br />
 
-<h3>👩‍💻 My Github Stats 👩‍💻</h3>
+<h2>👩‍💻 My Github Stats 👩‍💻</h2>
 <div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=turtle601&show_icons=true&theme=radical)
