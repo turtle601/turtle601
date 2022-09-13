@@ -7,9 +7,6 @@
 다른 사람들이 이해하기 쉽게 기록하고 공유하려고 노력합니다. 
 </p>
 
-<br />
-
-
 <h2>📚 Tech Stack </h2>
 <p>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -21,15 +18,11 @@
 
 </p>
 
-<br />
-
 <h2>🌈 Follow Me</h2>
 <p>
   <a href="https://velog.io/@turtle601" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a></a>&nbsp
   <a href="mailto:poomaneoung1@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=poomaneoung1@gmail.com"/></a>
 </p>
-
-<br />
 
 <h2>🍎 Active</h2>
 <p>
@@ -38,8 +31,6 @@
   프로그래머스 프론트엔드 자바스크립트 온라인 스터디 12기 (2021.10.13 ~ 2021.11.13)
   <br>
 </p>
-
-<br />
 
 <h2>👩‍💻 My Github Stats 👩‍💻</h2>
 <div>
