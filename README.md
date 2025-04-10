@@ -1,7 +1,5 @@
 ![carbon (1)](https://user-images.githubusercontent.com/78203399/189835820-eb0a6c31-1b3b-41ac-9626-a4bbe0950c93.png)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fturtle601%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
 <h2> 👏 Introduce Myself </h2>
 <p> 
 저는 기록과 공유를 좋아하는 황준승이라고 합니다. <br>
